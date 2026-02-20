@@ -98,4 +98,8 @@ If the system registers **continued silence** (no verbal input) or a distress ke
    ```bash
    streamlit run app.py
    
-> "Because when it comes to the people we love, silence should never be the final answer."
+### UI
+[Figma Dashboard Prototype](https://www.figma.com/make/qWZ6zfUwPE7BDRohFc3xM1/Elderly-Safety-App-Dashboard)
+
+### Simulation
+[Live HeartBeat AI Demo](https://heartbeat-iot-fall-detection.streamlit.app/)

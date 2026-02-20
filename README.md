@@ -100,6 +100,7 @@ If the system registers **continued silence** (no verbal input) or a distress ke
    
 ### UI
 [Figma Dashboard Prototype](https://www.figma.com/make/qWZ6zfUwPE7BDRohFc3xM1/Elderly-Safety-App-Dashboard)
-
+* *Note: Cloud version provides UI simulation. For full voice-control experience, please run locally.*
+  
 ### Simulation
 [Live HeartBeat AI Demo](https://heartbeat-iot-fall-detection.streamlit.app/)

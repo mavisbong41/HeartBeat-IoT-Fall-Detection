@@ -82,8 +82,12 @@ If the system registers **continued silence** (no verbal input) or a distress ke
 ---
 ## Installation & Quick Start
 > **Note to Judges:** To fully experience the **Real-time Voice Interaction** (Speech-to-Text and TTS), we recommend running the project locally. The cloud-hosted version may have hardware limitations regarding microphone and speaker access.
+   
+### UI
+[Figma Dashboard Prototype](https://www.figma.com/make/qWZ6zfUwPE7BDRohFc3xM1/Elderly-Safety-App-Dashboard)
+* *Note: Cloud version provides UI simulation. For full voice-control experience, please run locally.*
 
-### **Quick Start (3 Steps)**
+### **Quick Start locally (3 Steps)**
 
 1. **Clone the Repository**
    ```bash
@@ -97,10 +101,6 @@ If the system registers **continued silence** (no verbal input) or a distress ke
 3. **Launch HeartBeat AI**
    ```bash
    streamlit run app.py
-   
-### UI
-[Figma Dashboard Prototype](https://www.figma.com/make/qWZ6zfUwPE7BDRohFc3xM1/Elderly-Safety-App-Dashboard)
-* *Note: Cloud version provides UI simulation. For full voice-control experience, please run locally.*
-  
+
 ### Simulation
 [Live HeartBeat AI Demo](https://heartbeat-iot-fall-detection.streamlit.app/)
